@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Work Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_enter_data">EnterDataActivity</string>
+    <string name="title_activity_view_graph">ViewGraphActivity</string>
+    <string name="your_tips_text">Your Tips</string>
+    <string name="no_busboys_text"># of Busboys</string>
+    <string name="no_servers_text"># of Servers</string>
+    <string name="hours_worked_text">Hours Worked</string>
+    <string name="date_text">Date</string>
+    <string name="submit_text">Submit</string>
+    <string name="avg_shift_length_text">Avg. Shift Length: </string>
+    <string name="avg_pay_per_hour_text">Avg. $/Hr: </string>
+    <string name="avg_pay_text">Avg. $/Day: </string>
+    <string name="avg_server_day_text">Avg. Server $/Day: </string>
+    <string name="avg_restaurant_sales">Avg. Restaurant Sales: </string>
+    <string name="avg_tips">Avg. Tips: </string>
+    <string name="avg_server_hour_text">Avg. Server $/Hr: </string>
+    <string name="erase_data_text">Erase All Data. </string>
+    <string-array name="days_array">
+        <item>All</item>
+        <item>Mon</item>
+        <item>Tues</item>
+        <item>Wed</item>
+        <item>Thurs</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+    <string name="delete_data_point_text">X</string>
+    <string name="edit_data_point_text">Edit</string>
+    <string name="bar_tips_text">Bar Tips</string>
+    <string name="title_activity_view_stats_graph_view">ViewStatsGraphView</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
